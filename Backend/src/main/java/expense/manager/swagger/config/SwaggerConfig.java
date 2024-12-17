@@ -23,6 +23,6 @@ public class SwaggerConfig {
 
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder().title("Expense Manager API").version("0.0.1")
-				.contact(new Contact("Subhadeep Sen", "", "subhadeep0977@gmail.com")).build();
+				.contact(new Contact("Bharath Reddy- COTHON SOLUTIONS", "", "cothonsolutions@gmail.com")).build();
 	}
 }
